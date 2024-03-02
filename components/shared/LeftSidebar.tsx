@@ -1,4 +1,4 @@
-"use client";
+  "use client";
 import { sidebarLinks } from "@/constants";
 import { SignOutButton, SignedIn } from "@clerk/nextjs";
 import Image from "next/image";
